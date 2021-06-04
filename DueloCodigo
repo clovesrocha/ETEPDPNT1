@@ -24,10 +24,14 @@ print('GG')
 
 # TURMA B
 
-vetoraluno = [Ana Beatriz, Isablea Viana, Bruna Evelyn, Maria Eduarda, Arthur Belo, Kaio Miguel]
+vetoraluno = ['Ana Beatriz, Isablea Viana, Bruna Evelyn, Maria Eduarda, Arthur Belo, Kaio Miguel']
 print(vetoraluno)
-vetorprofessor = [Laercio Nunes, Cloves Rocha, Luana Carvalho, Sonia Torres]
+
+vetorprofessor = ['Laercio Nunes, Cloves Rocha, Luana Carvalho, Sonia Torres']
 print(vetorprofessor)
+
+vetornotinhas ['1, 2, 3, 4, 5, 6, 7']
+print (sua nota pode ser vetornotinhas)
 
 
 # TURMA C
