@@ -25,7 +25,9 @@ print('GG')
 # TURMA B
 
 vetoraluno = [Ana Beatriz, Isablea Viana, Bruna Evelyn, Maria Eduarda, Arthur Belo, Kaio Miguel]
-print
+print(vetoraluno)
+vetorprofessor = [Laercio Nunes, Cloves Rocha, Luana Carvalho, Sonia Torres]
+print(vetorprofessor)
 
 
 # TURMA C
