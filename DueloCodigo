@@ -1,0 +1,45 @@
+# ETE PORTO DIGITAL
+# DISCIPLINA: PNT1
+# PROFESSOR: CLOVES ROCHA
+
+#EXEMPLO 1: 
+vetorfrutas = ['banana, maça, laranja, pitonga, abacaxi']
+print(vetorfrutas)
+
+# TURMA A
+vetorAluno = ["Igor, Felipe, Lucas, Nicole, Jonas, Clara, Francisco, Camila"]
+vetorProfessor = ["Cloves, Teles, Sonia"]
+print(vetorAluno,  "/n" , vetorProfessor)
+print("2a é boa d+")
+
+print("---------------" , "/n")
+print("     NOTAS:    " , "/n")
+print("---------------" , "/n")
+
+vetorNotas = ["7.4 , 4.1 , 2.1 , 9.0"]
+print("Suas notas são: " , vetorNotas)
+media = vetorNotas/4
+print("Sua média é: " , media)
+print('GG')
+
+# TURMA B
+
+vetoraluno = [Ana Beatriz, Isablea Viana, Bruna Evelyn, Maria Eduarda, Arthur Belo, Kaio Miguel]
+print
+
+
+# TURMA C
+vetalunos = ['Weslley, Arthur, Sabrina, Leticia, Matheus, Joel, Flavio, Gabi, Karoline, Isabella, Hydley, Ana, Anny, Sofia, Caio, Miguel, Viníccius, Pedro']
+
+vetprofessores = [
+	'Cloves Rocha',
+	'Laércio Andrade',
+	'David Boa Hora'
+]
+
+vetnotas = ['1, 1.5, 2, 2.5, 3, 3.5, 4, 5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10']
+
+print(vetalunos)
+print ('Suas notas são:', '\n', vetnotas)
+print(vetprofessores)
+print('2°C é lindo') #PS: Eu sou mais rs rs
